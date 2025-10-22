@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         吉时学助手
 // @namespace    https://github.com/cnzxo
-// @version      1.0.0
+// @version      1.0.1
 // @description  吉时学在线课程学习助手，帮助用户更好的完成学习和考试任务。
 // @author       www@cnzxo.com
 // @match        https://elearning.geely.com/
